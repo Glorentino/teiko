@@ -1,0 +1,7 @@
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.7
+plotly>=5.18
+dash>=2.14
+dash-table>=5.0
+numpy>=1.24
